@@ -1,4 +1,0 @@
-# Contributors & Developers
-@erickouassi
-
-# Changelog
